@@ -1,0 +1,14 @@
+{
+  "name": "mcd-memory-reader",
+  "version": "0.1.0",
+  "description": "",
+  "main": "lib/index.js",
+  "author": "netoun <coulonnier.nicolas.44@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "neon-cli": "^0.4.0"
+  },
+  "scripts": {
+    "install": "neon build"
+  }
+}
